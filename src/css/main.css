@@ -1,5 +1,11 @@
+body {
+  background-color: #789;
+}
 a {
-  color: #ff9800;
+  color: var(--main-color);
+}
+nav #nav-desktop a, nav #nav-desktop ul a {
+  text-shadow: 1px 1px 4px black;
 }
 @media only screen and (max-device-width: 680px) {
   h1 {
@@ -81,6 +87,7 @@ code {
 
 .card .card-tags-container {
   display: block;
+  min-height: 1.5em;
   height: 1.5em;
   overflow: hidden;
 }
@@ -148,7 +155,7 @@ footer div {
 /* the special colors */
 
 :root {
-  --main-color: #33aa98;
+  --main-color: #ececec;
 }
 
 
