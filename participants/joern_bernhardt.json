@@ -1,16 +1,20 @@
 {
-  "name": "Jörn Bernhardt",
-  "company": "compose.us GmbH",
-  "when": {
-    "friday": true,
-    "friday_party": true,
-    "saturday": true
-  },
-  "tags": ["JavaScript", "React", "Svelte", "Testing"],
-  "vegan": false,
-  "vegetarian": false,
-  "allergies": "none",
-  "what_is_my_connection_to_javascript": "Most of my work",
-  "what_can_i_contribute": "Hopefully something new again :)",
-  "tshirt": "M-L"
+	"name": "Jörn Bernhardt",
+	"company": "compose.us",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": true,
+	"tags": ["Svelte", "TypeScript", "JSCC"],
+	"vegan": false,
+	"vegetarian": false,
+	"whatIsMyConnectionToJavascript": "Working for the web since 2.5 decades.",
+	"whatCanIContribute": "I can explain the tech behind the new JSCC website.",
+	"tShirt": {
+		"size": "XL",
+		"type": "regular"
+	},
+	"twitter": "NarigoDF",
+	"website": "https://narigo.dev"
 }

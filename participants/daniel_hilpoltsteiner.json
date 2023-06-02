@@ -1,17 +1,19 @@
 {
-    "name": "Daniel Hilpoltsteiner)",
-    "company": "Hochschule Landshut",
-    "when": {
-      "friday": true,
-      "friday_party": true,
-      "saturday": true
-    },
-    "tags": ["react", "angular", "typescript", "gatsbyjs"],
-    "vegan": false,
-    "vegetarian": false,
-    "allergies": "404 not found",
-    "what_is_my_connection_to_javascript": "trying to establish a nodeschool in Landshut",
-    "what_can_i_contribute": "A perspective on how javascript/typescript is used in an academic environment",
-    "tshirt": "M-L"
-  }
-      
+	"name": "Daniel Hilpoltsteiner",
+	"company": "Hochschule Landshut",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": true,
+	"tags": ["Angular", "RxJS", "NestJS", "TypeScript"],
+	"vegan": false,
+	"vegetarian": false,
+	"whatIsMyConnectionToJavascript": "My favorite Programming Language.",
+	"whatCanIContribute": "I can talk about my experience with Angular / NestJS.",
+	"tShirt": {
+		"size": "XL",
+		"type": "regular"
+	},
+	"twitter": "HilpoltsteinerD"
+}
